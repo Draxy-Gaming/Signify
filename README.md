@@ -1,5 +1,3 @@
-
-```markdown
 # Signify - Blockchain Contract Signing
 
 Welcome to Signify, your tool for secure blockchain contract signing using RSA encryption.
@@ -21,9 +19,8 @@ Signify is a web application that allows users to sign and verify blockchain con
 
    ```bash
    git clone https://github.com/Draxy-Gaming/Signify/
-   cd Signify
-   ```
-
+   cd Signify```
+   
 2. Open the `index.html` file in your web browser.
 
 3. Follow the instructions on the web page to sign and verify messages.
@@ -54,7 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Developed with ❤️ by MD IFTEKHAR FERDOUS
 
 ---
-
-**Note:** Make sure to replace `<repository-url>` and `<repository-directory>` with your actual repository URL and directory.
-
-Feel free to customize the README according to your specific needs and project details.
